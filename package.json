@@ -1,0 +1,16 @@
+{
+  "name": "extreme-startup-player",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Extreme startup player",
+  "main": "server.js",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "nodemon": "^1.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Sam Greenhalgh <sam@zapthedingbat.com>"
+}
